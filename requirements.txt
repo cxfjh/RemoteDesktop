@@ -1,0 +1,7 @@
+opencv-python
+pyautogui
+mss
+numpy
+Pillow
+asyncio
+tkinter
